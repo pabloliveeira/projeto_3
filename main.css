@@ -1,0 +1,74 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #e6d2c0;
+}
+.navbar {
+    background-color:#8d6e51;;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #e6d2c0;
+    color: #8d6e51;
+}
+
+#cabecalho .nav .nav-link, .navbar-brand,
+.navbar-brand:hover {
+    color: #e6d2c0;
+}
+
+.navbar-toggler {
+    background-color: #e6d2c0;
+}
+
+.slideimg {
+    height: 450px;
+}
+
+.section-title {
+    font-family: Sofia, cursive;
+}
+
+.imgwards {
+    height: 300px;
+}
+
+#awards, #sign-up {
+    background-color: #cfb399;
+}
+
+.nav-disco .nav-link.active,
+#sign-up button {
+    background-color: #8d6e51 ;
+    color: #e6d2c0;
+}
+
+.nav-disco .nav-link {
+    color: black;
+}
+
+.wwafawdwg {
+    font-size: 10px;
+}
+
+.fonte {
+    font-size: 16px;
+}
+
+.icon-color {
+    color: #000;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
